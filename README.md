@@ -31,7 +31,8 @@ Follow these steps to make your first contribution:
 git clone https://github.com/<your-username>/open-source-practice.git
 cd open-source-practice
 code .
-````
+
+```
 
 ### ✅ 3. Create a New Branch
 
@@ -77,9 +78,7 @@ Once your PR is reviewed, it will be merged into the main repo 🎉
 open-source-practice/
 ├── CONTRIBUTORS.md       # You will add your name here
 ├── README.md             # This file
-└── .github/
-    └── ISSUE_TEMPLATE/
-        └── add-name.yml  # Good First Issue template (optional)
+
 ```
 
 ---
@@ -116,18 +115,7 @@ git push origin feature/your-branch
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Happy contributing! 💙
 Maintainer – [Bhavana Jami](https://github.com/iambluewonk)
 
-```
-
----
-
-Let me know if you'd like me to also generate this as a GitHub repository template for you to push directly.
 ```
